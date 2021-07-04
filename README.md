@@ -1,6 +1,6 @@
-## Lesson-5
+## Lesson-6
 
-Going over the concept of higher order components through use of the withRouter HOC from react-router-dom.
+Create collection-preview and collection-item components for the shop page
 
 # How to fork and clone
 
